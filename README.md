@@ -10,7 +10,6 @@ This project focuses on developing a smart logistics system for monitoring cargo
 - Utilizes reed switch sensor for monitoring door lock status
 - Implements MQTT communication protocol for data transmission
 - Stores sensor data in a MongoDB database using Node-RED server
-- No Arduino used; ESP32 microcontroller directly connected to sensors
 
 ## Components
 - ESP32 microcontroller
